@@ -1,0 +1,9 @@
+# virtual env
+.venv
+.env
+
+# vscode
+.vscode
+
+# macOS
+.DS_Store
